@@ -1,0 +1,19 @@
+{
+  "name": "cbmongo",
+  "version": "0.0.1",
+  "description": "A faster version of MongoDB that uses Couchbase as a backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/brett19/cbcobra.git"
+  },
+  "dependencies": {
+    "bson": "~0.4.23",
+    "couchbase": "~2.1.5"
+  }
+}
